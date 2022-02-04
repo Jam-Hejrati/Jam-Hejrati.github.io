@@ -1,3 +1,5 @@
 # Jam-Hejrati.github.io
 
-Hello fucking World! 
+Hi
+
+Jam is talking :)
